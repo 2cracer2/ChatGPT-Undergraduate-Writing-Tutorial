@@ -42,6 +42,7 @@
 
 - [反向词典，同义词互换](https://wantwords.net/)
 - [《写作是门手艺》](https://book.douban.com/subject/35143751/)
+- [面向开发者的搜索引擎，基于GPT-4](https://www.phind.com/)
 ## 🤝 贡献
 
 我们非常欢迎你的贡献！
