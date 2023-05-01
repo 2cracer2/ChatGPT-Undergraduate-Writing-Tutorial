@@ -12,7 +12,7 @@
 这个repository包含一系列Markdown文档和附件，它们将帮助你了解如何使用ChatGPT来辅助论文写作。你可以按照以下步骤来开始使用：
 
 1. Clone这个repository到你的本地计算机。
-2. 通过阅读[doc目录中](./doc/)文档和查看附件来了解如何使用ChatGPT进行论文写作。
+2. 通过阅读[doc目录中](./docs/)文档和查看附件来了解如何使用ChatGPT进行论文写作,或者[在线阅读教程](https://2cracer2.github.io/ChatGPT-Undergraduate-Writing-Tutorial/#/)。
 3. 在你的论文写作中尝试使用ChatGPT，并分享你的体验和建议。
 
 ## 📄 文档
