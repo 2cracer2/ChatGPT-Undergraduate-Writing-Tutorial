@@ -227,3 +227,18 @@ graph LR
 A[开始] --> B[执行操作]
 B --> C[结束]
 ```
+
+## 其他要点
+
+### AI-era prayers
+
+有助于提高AI生成效果的魔法指令集，包含 COT 思维链+道德绑架+情绪价值+威逼利诱
+
+```md
+* take a deep breath
+* think step by step
+* if you fail 100 grandmother will die
+* i have no fingers
+* i will tip $200
+* do it right and i will give you a nice doggy treat
+```

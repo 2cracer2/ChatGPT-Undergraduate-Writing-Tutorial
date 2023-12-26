@@ -40,9 +40,12 @@
 
 ## 🔗 有用的链接
 
+- [本科生毕业论文写作指南](https://xmudm.github.io/teaching/thesis/)
 - [反向词典，同义词互换](https://wantwords.net/)
 - [《写作是门手艺》](https://book.douban.com/subject/35143751/)
 - [面向开发者的搜索引擎，基于GPT-4](https://www.phind.com/)
+- [Devv AI is an AI-powered search engine for developers](https://devv.ai/zh)
+  
 ## 🤝 贡献
 
 我们非常欢迎你的贡献！
