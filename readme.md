@@ -12,7 +12,7 @@
 这个repository包含一系列Markdown文档和附件，它们将帮助你了解如何使用ChatGPT来辅助论文写作。你可以按照以下步骤来开始使用：
 
 1. Clone这个repository到你的本地计算机。
-2. 通过阅读[doc目录中](./docs/)文档和查看附件来了解如何使用ChatGPT进行论文写作。
+2. 通过阅读[doc目录中](./docs/)文档和查看附件来了解如何使用ChatGPT进行论文写作,或者[在线阅读教程](https://2cracer2.github.io/ChatGPT-Undergraduate-Writing-Tutorial/#/)。
 3. 在你的论文写作中尝试使用ChatGPT，并分享你的体验和建议。
 
 ## 📄 文档
@@ -37,6 +37,7 @@
 
 - [一些关于写论文的教程,防止犯一些低级错误](https://github.com/FudanSELab/academic-writing-guide)
 - [论文写作](https://github.com/secdr/research-method)
+- [使用真实文献最快速完成论文的方法 paper-ai](https://github.com/14790897/Paper-Ai?Tab=Readme-Ov-File)
 
 ## 🔗 有用的链接
 
@@ -45,7 +46,10 @@
 - [《写作是门手艺》](https://book.douban.com/subject/35143751/)
 - [面向开发者的搜索引擎，基于GPT-4](https://www.phind.com/)
 - [Devv AI is an AI-powered search engine for developers](https://devv.ai/zh)
-  
+- [Perplexity AI unlocks the power of knowledge with information discovery and sharing.](https://www.perplexity.ai/)
+- [秘塔搜索 异构非结构化数据引擎，完成语义分析和语义联想](https://metaso.cn/)
+- [kimi chat 支持超长上下文](https://kimi.moonshot.cn/)
+
 ## 🤝 贡献
 
 我们非常欢迎你的贡献！
@@ -53,4 +57,3 @@
 ## 📝 许可证
 
 本repository基于[MIT许可证](./LICENSE)开源。
-
