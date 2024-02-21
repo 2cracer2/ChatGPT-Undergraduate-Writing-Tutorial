@@ -37,6 +37,7 @@
 
 - [一些关于写论文的教程,防止犯一些低级错误](https://github.com/FudanSELab/academic-writing-guide)
 - [论文写作](https://github.com/secdr/research-method)
+- [使用真实文献最快速完成论文的方法 paper-ai](https://github.com/14790897/Paper-Ai?Tab=Readme-Ov-File)
 
 ## 🔗 有用的链接
 
@@ -45,6 +46,9 @@
 - [《写作是门手艺》](https://book.douban.com/subject/35143751/)
 - [面向开发者的搜索引擎，基于GPT-4](https://www.phind.com/)
 - [Devv AI is an AI-powered search engine for developers](https://devv.ai/zh)
+- [Perplexity AI unlocks the power of knowledge with information discovery and sharing.](https://www.perplexity.ai/)
+- [秘塔搜索 异构非结构化数据引擎，完成语义分析和语义联想](https://metaso.cn/)
+- [kimi chat 支持超长上下文](https://kimi.moonshot.cn/)
 
 ## 🤝 贡献
 
