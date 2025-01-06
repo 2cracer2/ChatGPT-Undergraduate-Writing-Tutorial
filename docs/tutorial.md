@@ -183,6 +183,7 @@ Q：请参考一下[XXXXXX方向]的论文，以【XXXXXXX为例】为论文题�
 ## 生成参考文献
 
 可结合[paper-ai](https://github.com/14790897/Paper-Ai?tab=readme-ov-file)项目，输入论文主题关键词将在 Semantic Scholar 或 arxiv 或 PubMed 中搜索论文。系统将把信息整合到的论文中，并生成真实论文引用。
+或者使用[秘塔AI搜索](https://metaso.cn/)搜索范围选择学术，输入对应段落，生成对应真实论文引用。
 
 ## 生成内容
 
